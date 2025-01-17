@@ -13,6 +13,6 @@ application: lookml-diagram {
 }
 
 constant: CONNECTION_NAME {
-  value: "choose-connection"
+  value: "bigquery-adc"
   export: override_required
 }
